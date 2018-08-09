@@ -1,0 +1,23 @@
+[06-Oct-2017 03:31:50 UTC] PHP Fatal error:  Class 'Authcontroller' not found in /home/m1nut512/public_html/beta2/application/controllers/admin/Home.php on line 5
+[06-Oct-2017 03:33:11 UTC] PHP Fatal error:  Class 'Authcontroller' not found in /home/m1nut512/public_html/beta2/application/controllers/admin/Home.php on line 5
+[06-Oct-2017 03:34:01 UTC] PHP Fatal error:  Class 'authcontroller' not found in /home/m1nut512/public_html/beta2/application/controllers/admin/Home.php on line 5
+[06-Oct-2017 03:34:17 UTC] PHP Fatal error:  Class 'Authcontroller' not found in /home/m1nut512/public_html/beta2/application/controllers/admin/Home.php on line 5
+[06-Oct-2017 03:36:59 UTC] PHP Warning:  set_error_handler() expects the argument (_error_handler) to be a valid callback in /home/m1nut512/public_html/beta2/system/core/CodeIgniter.php on line 138
+[06-Oct-2017 03:36:59 UTC] PHP Warning:  register_shutdown_function(): Invalid shutdown callback '_shutdown_handler' passed in /home/m1nut512/public_html/beta2/system/core/CodeIgniter.php on line 140
+[06-Oct-2017 03:36:59 UTC] PHP Notice:  Use of undefined constant EXT - assumed 'EXT' in /home/m1nut512/public_html/beta2/system/core/Common.php on line 212
+[06-Oct-2017 03:36:59 UTC] PHP Notice:  Use of undefined constant EXT - assumed 'EXT' in /home/m1nut512/public_html/beta2/system/core/Common.php on line 214
+[06-Oct-2017 03:37:19 UTC] PHP Fatal error:  Class 'Authcontroller' not found in /home/m1nut512/public_html/beta2/application/controllers/admin/Home.php on line 5
+[06-Oct-2017 03:37:24 UTC] PHP Fatal error:  Class 'Authcontroller' not found in /home/m1nut512/public_html/beta2/application/controllers/admin/Home.php on line 5
+[06-Oct-2017 03:38:17 UTC] PHP Fatal error:  Class 'Authcontroller' not found in /home/m1nut512/public_html/beta2/application/controllers/admin/Home.php on line 5
+[06-Oct-2017 03:41:54 UTC] PHP Fatal error:  Class 'Authcontroller' not found in /home/m1nut512/public_html/beta2/application/controllers/admin/Home.php on line 5
+[06-Oct-2017 03:42:05 UTC] PHP Fatal error:  Class 'Authcontroller' not found in /home/m1nut512/public_html/beta2/application/controllers/admin/Home.php on line 5
+[06-Oct-2017 03:43:14 UTC] PHP Fatal error:  Class 'Authcontroller' not found in /home/m1nut512/public_html/beta2/application/controllers/admin/Home.php on line 5
+[06-Oct-2017 03:51:31 UTC] PHP Fatal error:  Class 'Authcontroller' not found in /home/m1nut512/public_html/beta2/application/controllers/admin/Master.php on line 3
+[06-Oct-2017 03:52:18 UTC] PHP Fatal error:  Class 'Authcontroller' not found in /home/m1nut512/public_html/beta2/application/controllers/admin/Master.php on line 3
+[06-Oct-2017 03:54:06 UTC] PHP Fatal error:  Class 'Authcontroller' not found in /home/m1nut512/public_html/beta2/application/controllers/admin/Product.php on line 5
+[06-Oct-2017 03:58:11 UTC] PHP Fatal error:  Class 'Authcontroller' not found in /home/m1nut512/public_html/beta2/application/controllers/admin/Contact.php on line 5
+[06-Oct-2017 04:00:00 UTC] PHP Fatal error:  Class 'Authcontroller' not found in /home/m1nut512/public_html/beta2/application/controllers/admin/About.php on line 5
+[06-Oct-2017 04:01:18 UTC] PHP Fatal error:  Class 'Authcontroller' not found in /home/m1nut512/public_html/beta2/application/controllers/admin/News.php on line 5
+[06-Oct-2017 04:01:59 UTC] PHP Fatal error:  Class 'Authcontroller' not found in /home/m1nut512/public_html/beta2/application/controllers/admin/News.php on line 5
+[06-Oct-2017 04:05:30 UTC] PHP Fatal error:  Class 'Authcontroller' not found in /home/m1nut512/public_html/beta2/application/controllers/admin/Menu.php on line 5
+[23-Oct-2017 03:02:43 UTC] PHP Fatal error:  Cannot redeclare master::edit_flavour() in /home/m1nut512/public_html/beta/application/controllers/admin/Master.php on line 468
