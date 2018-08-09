@@ -1,6 +1,4 @@
-###################
 Aplikasi Dental Lab Sederhana
-###################
 
 Fitur :
 
@@ -12,6 +10,8 @@ Fitur :
 6. Invoice
 7. Laporan Penjualan
 8. Laporan Pengiriman
+
+
 
 Untuk database bisa hubungi saya via instagram @kangyasin dan bantu beri star.
 Terima kasih.
